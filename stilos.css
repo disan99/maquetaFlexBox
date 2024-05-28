@@ -1,0 +1,75 @@
+*{
+    box-sizing: border-box;
+}
+.cajabody{
+    background-color: antiquewhite;
+    width: auto;
+}
+
+.caja1{
+    background-color: bisque;
+    height: 150px;
+}
+.caja2{
+    background-color: burlywood;
+    height: auto;
+    border: solid #bd5b5b;
+  
+}
+
+.caja3{
+    background-color: rgb(65, 189, 189);
+    height: 300px;
+}
+.caja4{
+    background-color: rgb(65, 189, 189);
+    height: 700px;
+}
+.caja5{
+    background-color: #f1a9a9;
+    border: solid #803c3c;
+}
+.caja6{
+    background-color: bisque;
+    height: 200px;
+}
+.caja7{
+    background-color: aquamarine;
+    border: #c2cc3a solid;
+}
+.caja8{
+    background-color: beige;
+    height: 150px;
+}
+
+.cajaborde2{
+    background-color: rgb(179, 152, 152);
+}
+.caja9{
+    background-color: rgb(100, 182, 168);
+    border: solid #c2cc3a;
+}
+.caja10{
+    background-color: rgb(172, 97, 138);
+    height: 150px;
+}
+.caja11{
+    background-color: #eb5959;
+    border: solid #5b7abd;
+}
+.caja12{
+    background-color: rgb(167, 75, 185);
+    height: 150px;
+}
+.caja13{
+    background-color: rgb(174, 50, 52);
+    border: solid #5f9670;
+}
+.caja14{
+    background-color: rgb(125, 192, 153);
+    border: solid #90c01f;
+}
+.caja15{
+    background-color: #c2cc3a;
+    height: 200px;
+}
